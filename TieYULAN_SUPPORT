@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>铁玉兰 (TieYULAN) - 技术支持</title>
+    <style>
+        body { font-family: -apple-system, sans-serif; line-height: 1.6; color: #333; max-width: 800px; margin: 40px auto; padding: 0 20px; }
+        h1 { color: #000; }
+        .section { margin-bottom: 30px; }
+        .contact { background: #f4f4f4; padding: 15px; border-radius: 8px; }
+    </style>
+</head>
+<body>
+    <h1>铁玉兰 (TieYULAN) 技术支持</h1>
+    
+    <div class="section">
+        <h3>关于铁玉兰</h3>
+        <p>铁玉兰是一款为鞋履设计师打造的专业创意采集与 AI 辅助设计工具，致力于提升设计工作效率。</p>
+    </div>
+
+    <div class="section contact">
+        <h3>联系我们 (Contact)</h3>
+        <p>如果您在使用过程中遇到任何问题，或有版权相关的反馈，请通过以下方式联系开发者：</p>
+        <p><strong>客服邮箱：</strong> meinvyeheng@163.com</p>
+    </div>
+
+    <div class="section">
+        <h3>法律条款 (Legal)</h3>
+        <ul>
+            <li><a href="这里替换为你隐私政策的网址">隐私政策 (Privacy Policy)</a></li>
+            <li><a href="这里替换为你用户协议的网址">用户协议 (Terms of Use)</a></li>
+        </ul>
+    </div>
+
+    <footer>
+        <p>© 2026 TieYULAN Team. All rights reserved.</p>
+    </footer>
+</body>
+</html>
